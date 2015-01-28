@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rquan24/AndroidStudioProjects/PhotoGallery/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/rquan24/AndroidStudioProjects/PhotoGallery/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-61f7dff3684d680ecf9bcd0e364c47228a8960e5.jar" />
+    </item>
+    <item
+        jar="/Users/rquan24/AndroidStudioProjects/PhotoGallery/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/rquan24/AndroidStudioProjects/PhotoGallery/app/build/intermediates/pre-dexed/debug/classes-78d2e1a10df813f8e9a08a641368904a0abc5ea7.jar" />
+    </item>
+    <item
+        jar="/Users/rquan24/AndroidStudioProjects/PhotoGallery/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/rquan24/AndroidStudioProjects/PhotoGallery/app/build/intermediates/pre-dexed/debug/classes-2d2829eaf436972d3243759a3f53c131d97e5b61.jar" />
+    </item>
+    <item
+        jar="/Users/rquan24/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/rquan24/AndroidStudioProjects/PhotoGallery/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-5e0b3528d8c69d88bfb8f0b96c7df07db868929b.jar" />
+    </item>
+
+</items>
